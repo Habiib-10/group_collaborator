@@ -1,0 +1,12 @@
+node_modules/
+build/
+.dart_tool/
+.idea/
+.env
+android/
+ios/
+linux/
+macos/
+windows/
+web/
+*.lock
