@@ -1,6 +1,4 @@
 // halkaan soo dhig koodhkaaga Dart ee faylka server.js
-
-// halkaan soo dhig koodhkaaga Dart ee faylka lib/screens/EditFieldScreen.dart
 const express = require('express');
 const mysql = require('mysql2');
 const bcrypt = require('bcryptjs');
